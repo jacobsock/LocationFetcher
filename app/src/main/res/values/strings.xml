@@ -1,0 +1,15 @@
+<resources>
+    <string name="place_holder_textView_text">""</string>
+    <string name="location_activity_button_text">Location Activity</string>
+    <string name="image_activity_image_button_content_description">Links to ImageActivity</string>
+    <string name="location_data_text_view_text">Location Data</string>
+    <string name="start_capture_button_text">Start Capture</string>
+    <string name="stop_capture_button_text">Stop Capture</string>
+    <string name="save_capture_button_text">Save Capture</string>
+    <string name="back_button_text">Back</string>
+    <string name="image_url_edit_text_field_text">Enter a URL of an Image</string>
+    <string name="fetch_image_button_text">Fetch Image</string>
+    <string name="save_image_button_text">Save Image</string>
+
+
+</resources>
